@@ -41,3 +41,18 @@ Ontologia: classes e propriedades
 3. Baixe o arquivo OWL da ontologia deste projeto.
 4. Vá em "File/Open..." para carregar o arquivo da ontologia.
 
+Mapeamentos
+--------
+
+1. Vá na aba "Ontop mapping"
+2. Adicional uma nova fonte de dados (dê um nome, ex., *PlantStructreDB*)
+3. Defina os parâmetros da conexão abaixo:
+    * Connection URL: *jdbc:h2:tcp://localhost/./helloworld*
+    * Username: *sa*
+    * Password: (deixe em branco)
+    * Driver class: *org.h2.Driver* (escolha no menu drop down)
+4. Teste a conexão utilizando o botão “Test Connection”
+5. Mude para a aba “Mapping Manager” na aba de mapeamentos Ontop
+6. Selecione sua fonte de dados
+7. Clique em "Create" para criar um novo mapeamento
+
