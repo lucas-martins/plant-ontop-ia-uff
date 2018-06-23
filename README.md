@@ -26,7 +26,8 @@ Prodecimento:
      * No password
 
 4. Execute o script SQL do projeto para criar o banco de dados, suas tabelas e entradas.
-5. Para executar as consultas SPARQL, criar as seguintes "Data Property": `hasDefinitionCardinal`,`hasDefinitionCell`,`hasDefinitionCollective`,`hasDefinitionEmbryo`,`hasDefinitionMulti`,`hasDefinitionPortion`,`hasDefinitionRhizoid`,`hasDefinitionTrichome`,`hasDefinitionTrichomeApex`,`hasDefinitionTrichomeTip`,`hasDefinitionVitro`,`hasDefinitionWhole` 
+5. Vá na aba "Entities" e logo após, na sub-aba "Data Properties".
+5. Para executar as consultas SPARQL, criar as seguintes "Data Properties": `hasDefinitionCardinal`,`hasDefinitionCell`,`hasDefinitionCollective`,`hasDefinitionEmbryo`,`hasDefinitionMulti`,`hasDefinitionPortion`,`hasDefinitionRhizoid`,`hasDefinitionTrichome`,`hasDefinitionTrichomeApex`,`hasDefinitionTrichomeTip`,`hasDefinitionVitro`,`hasDefinitionWhole`,`hasStructureCardinal`,`hasStructureCell`,`hasStructureCollective`,`hasStructureEmbryo`,`hasStructureMulti`.`hasStructurePortion`,`hasStructureRhizoid`,`hasStructureTrichome`,`hasStructureTrichomeApex`,`hasStructureTrichomeTip`,`hasStructureVitro`,`hasStructureWhole`,`hasSubDefinitionCardinal`,`hasSubDefinitionCell`,`hasSubDefinitionCollective`,`hasSubDefinitionMulti`,`hasSubDefinitionPortion`,`hasSubDefinitionRhizoid`,`hasSubDefinitionTrichome`,`hasSubDefinitionVitro`,`hasSubDefinitionWhole`,`hasSubStructureCardinal`,`hasSubStructureCell`,`hasSubStructureCollective`,`hasSubStructureMulti`,`hasSubStructurePortion`,`hasSubStructureRhizoid`,`hasSubStructureTrichome`,`hasSubStructureVitro`,`hasSubStructureWhole`,`hasSubTypeCollective`,`hasSubTypeMulti`,`hasSubTypeDefinitionCollective`,`hasSubTypeDefinitionMulti`. 
 
 Ontologia: classes e propriedades
 --------------------------------
