@@ -26,6 +26,7 @@ Prodecimento:
      * No password
 
 4. Execute o script SQL do projeto para criar o banco de dados, suas tabelas e entradas.
+5. Para executar as consultas SPARQL, criar as seguintes "Data Property": *hasDefinitionCardinal*,*hasDefinitionCell* 
 
 Ontologia: classes e propriedades
 --------------------------------
