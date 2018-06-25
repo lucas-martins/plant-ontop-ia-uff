@@ -7,7 +7,7 @@ Este tutorial é baseado noa artigo: "Plant Ontology Consortium e sua Aplicaçã
 Requisitos
 ------------
 
-* Java 7 or 8
+* Java 7 ou 8
 * [H2 (banco de dados relacional)](https://sourceforge.net/projects/ontop4obda/files/sample-data/)
 * [Pacote mais recente Ontop Protégé](https://sourceforge.net/projects/ontop4obda/files/)
 * [Plant Ontology Consortium](http://archive.plantontology.org/download)
